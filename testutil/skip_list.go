@@ -17,6 +17,7 @@ var skipListPG14_15 = []string{
 	"create_view/add_view",
 	"create_view/alter_view",
 	"create_view/drop_view",
+	"create_view/issue_350_view_options",
 	"dependency/table_to_view",
 
 	// Materialized view tests - same pg_get_viewdef() issue
